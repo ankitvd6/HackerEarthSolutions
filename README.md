@@ -45,3 +45,7 @@ For open-source projects, Under [MIT License](/LICENSE).
 ## Maintainers
 
 - [Ankit Dwivedi](https://github.com/ankitvd6)
+
+## References
+
+- This repository is HackerEarth solutions version inspired by [LeetCode-Solutions](https://github.com/SHY-Corp/LeetCode-Solutions)
